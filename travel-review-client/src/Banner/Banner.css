@@ -1,0 +1,17 @@
+.banner {
+    background-image: url('../Assets/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 20px;
+    ;
+}
+
+.banner-content {
+    background-color: rgba(0, 0, 0, 0.53);
+    width: 102%;
+    margin-left: -1%;
+    height: 100%;
+    border-radius: 20px;
+}

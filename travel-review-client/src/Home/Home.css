@@ -1,0 +1,4 @@
+.place-details {
+    display: flex;
+    flex-wrap: wrap;
+}
